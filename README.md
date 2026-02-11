@@ -5,10 +5,11 @@
 - 💞️ I’m looking to collaborate on web dev mentors
 - 📫 How to reach me ksmoderntime@gmail.com
 - 😄 Pronouns: diligent
-- ⚡ Fun fact: i'm 18
 
 ## My Stack ##
 - JavaScript
 - HTML/CSS
 - SCSS/LESS
 - GULP
+
+- Chat GPT - Codex 😈
